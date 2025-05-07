@@ -1,4 +1,7 @@
  [2lbpamphlet.com](http://2lbpamphlet.com)
+<style> img {
+   width:150px; float:left; padding-right: 6px; 
+} </style>
 
 # Help Us Win 2028!! 
 
@@ -12,16 +15,15 @@ Please exit this page if you are a *Friend Of The Democrats*.
 
 Our theory is simple ... As long as the State of Israel exists, America's Dems cannot re-capture POTUS. Help us make this dream come true!
 
-<table><tr><td>
+<!-- <table><tr><td>
 <img src="./tether-usdt-coin.png" width=85 >
+![tether](./tether-usdt-coin.png)
 </td>
-<td width=55%> Donate Now 
+<td > Donate Now 
 <br/><br/> <a href="0xD63B25cfB1b05bbF5e694Aca571eE096cE235C3B">eUSDT Address</a> 
 
 (full list below)
-</td>
-</tr>
-</table>
+</td></tr></table> -->
 
 __________________
 
@@ -69,9 +71,9 @@ However, for our Base Voter, voting for POTUS is also choosing the Commander in 
 
 Voting means Responsibility. Complicity. 
 
-<br/>
 
-<img align=right src="./tanehisi01.png" width=150 />
+![tether](./tanehisi01.png)
+
 Ta-Nehisi Coates is a modern-day Black intellectual and writer. 
 He visited Israel/Palestine in summer 2023. 
 
@@ -83,6 +85,7 @@ Imagine it is now 2028 and the Dems have nominated a staunch ally & defender of 
 
 Nothing is more distressing and demoralizing for the Base Voter than making a choice for Commander in Chief and U.S. Foreign Policy.  
 
+<br clear="all"/>
 <!-- 
 --The Future Democratic Party **will not accommodate** both Israelists and African-Americans.
 -->
@@ -98,14 +101,11 @@ __________________________
 
 #### Last Democrat POTUS Holding an Emblem of Party's Collapse 
 
-<table><tr><td>
-<img src="biden_1.png" width=165>
-</td>
-<td><img src="biden_2.png" width=165></td>
-<td><img src="hundred_years.jpg" width=165></td>
-<td><img src="./the-ethnic-cleansing.jpg" width=165></td>
-</tr></table>
-
+![tether](./biden_1.png )
+![tether](./biden_2.png)
+![tether](./hundred_years.jpg)
+![tether](./the-ethnic-cleansing.jpg)
+<br clear="all"/>
 ____________________________________
 
 
@@ -145,7 +145,7 @@ One Day, Everyone Will Have Always Been Against This (El Akkad), amazon.com/dp/0
 
 ### Donate $ via cryptocurrency :
 
-|  | address |
+| coin  |  |
 |----------|----------|
 | tether usdt (eth)     | 0xD63B25cfB1b05bbF5e694Aca571eE096cE235C3B |
 | circle usdc (eth)     | 0xD63B25cfB1b05bbF5e694Aca571eE096cE235C3B  |
@@ -156,4 +156,5 @@ One Day, Everyone Will Have Always Been Against This (El Akkad), amazon.com/dp/0
 | xmr (Monero)    | 42RBd4ptiuD2MttZG2W4ChaxVFKqHHa42eR6Z7V99GS742EYmNwYRYkdXamvYguK6P6UbsAvDbk3XJWSzdbgkM2dJDS5A96 |
 | bitcoin     | bc1q88tgp3khaqeagk6n64vkjv3aad2vhus7tcu9e0   |
 
-<a href="0xD63B25cfB1b05bbF5e694Aca571eE096cE235C3B"><img alt="Tether usdt(eth)" src="./tether-usdt-coin.png" width=85 ></a>
+<!--  ![tether](./tether-usdt-coin.png)-->
+
