@@ -1,7 +1,5 @@
- [2lbpamphlet.com](http://2lbpamphlet.com)
-<style> img {
-   width:150px; float:left; padding-right: 6px; 
-} </style>
+[2lbpamphlet.com](http://2lbpamphlet.com)
+<style> img {width:150px; float:left; padding-right:5px;}</style>
 
 # Help Us Win 2028!! 
 
@@ -71,18 +69,9 @@ Casting a vote for Mayor is relatively simple — he knows all the issues.
 
 However, for our Base Voter, voting for POTUS is also choosing the Commander in Chief.  Because Israel policy (internal & external) is equivalent to U.S. foreign policy — voting for Commander in Chief means endorsing (implicitly) the current and future actions of U.S./Israel with respect to the Palestinian condition and the Arab neighbor states. 
 
-<br/><br/>
+<br/>
 
-![coates-abs](/tanehisi01.png)
 ![coates-flat](tanehisi01.png)
-![coates](./tanehisi01.png#withAnchor)
-![parent-ww-coates](../www3/tanehisi01.png)
-
-<img src="./tanehisi01.png" alt="htmlImg1"  />
-<img src="tanehisi01.png" alt="htmlImg2"  />
-<img src="/tanehisi01.png" alt="htmlImg3"  />
-<img src="//tanehisi01.png" alt="htmlImg4"  />
-
 
 Ta-Nehisi Coates is a modern-day Black intellectual and writer. 
 He visited Israel/Palestine in summer 2023. 
@@ -112,10 +101,10 @@ __________________________
 
 #### Last Democrat POTUS Holding an Emblem of Party's Collapse 
 
-![tether](biden_1.png )
-![tether](biden_2.png)
-![tether](hundred_years.jpg)
-![tether](the-ethnic-cleansing.jpg)
+![biden1](biden_1.png )
+![biden2](biden_2.png)
+![biden3](hundred_years.jpg)
+![biden4](the-ethnic-cleansing.jpg)
 <br clear="all"/>
 
 ____________________________________
@@ -143,7 +132,7 @@ Our method is Simple. Powerful. **Effective**.
 
 ## 2028 Is Closer Than It Seems ! 
 
-Can you help us avoid a *Dem POTUS*??!  Every dollar adds up.  
+Can you pitch in so we can avoid a *2028 Dem POTUS*??!  Every dollar adds up.  
 
 The easiest way to help, of course, is just share this page.
 
@@ -172,6 +161,6 @@ xmr (Monero)   \
 
 <!--  ![tether](./tether-usdt-coin.png)-->
 
-<br/>
+---------------------------
 
- [2lbpamphlet.com](http://2lbpamphlet.com)
+[2lbpamphlet.com](http://2lbpamphlet.com)
