@@ -71,10 +71,18 @@ Casting a vote for Mayor is relatively simple — he knows all the issues.
 
 However, for our Base Voter, voting for POTUS is also choosing the Commander in Chief.  Because Israel policy (internal & external) is equivalent to U.S. foreign policy — voting for Commander in Chief means endorsing (implicitly) the current and future actions of U.S./Israel with respect to the Palestinian condition and the Arab neighbor states. 
 
-Voting means Responsibility. ... Complicity. <br/><br/>
+<br/><br/>
 
+![coates-abs](/tanehisi01.png)
+![coates-flat](tanehisi01.png)
+![coates](./tanehisi01.png#withAnchor)
+![parent-ww-coates](../www3/tanehisi01.png)
 
-![coates](tanehisi01.png)
+<img src="./tanehisi01.png" alt="htmlImg1"  />
+<img src="tanehisi01.png" alt="htmlImg2"  />
+<img src="/tanehisi01.png" alt="htmlImg3"  />
+<img src="//tanehisi01.png" alt="htmlImg4"  />
+
 
 Ta-Nehisi Coates is a modern-day Black intellectual and writer. 
 He visited Israel/Palestine in summer 2023. 
