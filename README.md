@@ -45,7 +45,7 @@ But ... what if there was a magic neutron bomb specifically for urban Democrat v
 
 Could there be an Idea powerful enough? 
 
-#### The History of Palestine 
+#### The History of *Palestine* 
 
 Writing about Israeli-Palestinian history, famous Black Intellectuals have—
  
@@ -63,7 +63,7 @@ But the History of Palestinian suffering is also the History of **U.S. Support f
 
 #### Responsibility for Policy 
 
-Election Day 2028.  Take an imaginary Base Voter in Pittsburgh.  He wants to vote for Mayor of the city.  Additionally he has the opportunity to vote for President of the U.S.  
+*Election Day 2028*.  Take an imaginary Base Voter in Pittsburgh.  He wants to vote for Mayor of the city.  Additionally he has the opportunity to vote for President of the U.S.  
 
 Casting a vote for Mayor is relatively simple — he knows all the issues. 
 
@@ -72,7 +72,6 @@ However, for our Base Voter, voting for POTUS is also choosing the Commander in 
 <br/>
 
 ![coates-flat](tanehisi01.png)
-
 Ta-Nehisi Coates is a modern-day Black intellectual and writer. 
 He visited Israel/Palestine in summer 2023. 
 
@@ -82,11 +81,8 @@ Coates then said, upsetting the New York Media establishment — If apartheid is
 
 Imagine it is now 2028 and the Dems have nominated a staunch ally & defender of Israel.  Having publicly stood against apartheid, Ta-Nehisi Coates must choose between voting for a pro-Israel candidate ... or, what?  The decision is difficult, conflicted, and painful.  Maybe he simply doesn't vote (for POTUS at least)?
 
-Nothing is more distressing and demoralizing for the Base Voter than making a choice for Commander in Chief and U.S. Foreign Policy. <br clear="all"/>
+Nothing is more distressing and demoralizing for the Base Voter than making a choice for Commander in Chief and U.S. Foreign Policy.  (Even if Palestine is bad for the Grand Old Party, it is *much worse* for The Democrats!) <br clear="all"/>
 
-<!-- 
---The Future Democratic Party **will not accommodate** both Israelists and African-Americans.
--->
 
 #### Genocide Joe
 
@@ -111,12 +107,14 @@ ____________________________________
 
 
 ### Method 
+<!-- https://x.com/khamenei_ir/status/1921138072516784283  
+Peoples minds must not ..-->
 
-We want the Base Voter to be always mindful of the Palestinian situation.  We employ **True Propaganda** to realize this.
+The Base Voter must always be mindful of the Palestinian situation -- present day and the history.  We employ **True Propaganda** to realize this.
  
 You are familiar with knockoff Gucci bags.  A Chinese handbag, physically identical to an "official" Gucci product — but not sanctioned. 
 
-For this project, we print and distribute thousands of **knockoff paperback books** — physical reproductions of well-known and popular history books.  The two main titles employed are (1) [*Ethnic Cleansing of Palestine*](http://amazon.com/dp/1851685553); and (2) [*100 Years' War on Palestine*](http://amazon.com/dp/1250787653).  
+For this project, we print and distribute thousands of **knockoff paperback books** — physical reproductions of well-known and popular history books.  The two main titles for distribution are (1) [*Ethnic Cleansing of Palestine*](http://amazon.com/dp/1851685553); and (2) [*100 Years' War on Palestine*](http://amazon.com/dp/1250787653).  
 
 These books are a **permanent, cross-generational** history lesson (true propaganda). 
 
@@ -127,8 +125,7 @@ The couriers deliver stacks of books to their neighbors (storefronts, residences
 The couriers film themselves making each delivery.  Brief edits of the videos are published to provide **proof of the operation**.  (Stay tuned...!)
 
 Our method is Simple. Powerful. **Effective**. 
-
-<br/>
+<!-- last thing on Earth hillary & nancy etc. want to hear about ; proselytizing , spread , info -->
 
 ## 2028 Is Closer Than It Seems ! 
 
@@ -150,6 +147,7 @@ One Day, Everyone Will Have Always Been Against This (El Akkad), amazon.com/dp/0
 |----------|----------|
 | tether usdt (eth)     | 0xD63B25cfB1b05bbF5e694Aca571eE096cE235C3B |
 | circle usdc (eth)     | 0xD63B25cfB1b05bbF5e694Aca571eE096cE235C3B  |
+| dai (makerdao)   | 0xD63B25cfB1b05bbF5e694Aca571eE096cE235C3B  |
 | ethereum     | 0xD63B25cfB1b05bbF5e694Aca571eE096cE235C3B |
 | trx usdt (Tron)     | TK5azi6RyQtpS9QrQREFeg795JauoX2c3Z  |
 | sol usdt (Solana)     | w2voyw1Zh4VkiB5uCJxFjX9LhqNimu5RyP8AFmWYUge |
